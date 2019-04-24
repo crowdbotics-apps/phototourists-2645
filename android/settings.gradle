@@ -1,0 +1,3 @@
+rootProject.name = 'phototourists_2645'
+
+include ':app'
